@@ -77,8 +77,8 @@ Compare the original modulating signal with the demodulated signal. PROCEDURE
 MODEL GRAPH
  <img width="919" height="1290" alt="image" src="https://github.com/user-attachments/assets/55326c5b-7dd5-4873-aaf6-d219bb7c4420" />
 
-##Program
-
+Program
+```
 Am=10.5;
 Fm=710;
 Ac=21;
@@ -101,7 +101,7 @@ demodulated_signal = abs(hilbert(eam)) - Ac;
 subplot(4,1,4);
 plot(t, demodulated_signal);
 
-
+```
 
 Output Waveform
 
