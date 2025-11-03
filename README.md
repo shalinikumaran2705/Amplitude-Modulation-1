@@ -104,10 +104,11 @@ plot(t, demodulated_signal);
 ```
 
 TABULATION:
+
 <img width="856" height="578" alt="image" src="https://github.com/user-attachments/assets/5e46396b-286d-48b9-a63a-7a9e86cb5de8" />
 
 
-Output Waveform
+Output Waveform:
 
 <img width="765" height="726" alt="image" src="https://github.com/user-attachments/assets/5bc96442-e024-4a0f-a6ae-812add5212ed" />
 
